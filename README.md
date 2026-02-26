@@ -1,8 +1,6 @@
 # Anshul Patil
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AnshulPatil2005)](https://git.io/streak-stats)
-![Profile Views](https://komarev.com/ghpvc/?username=AnshulPatil2005&style=for-the-badge)
-![LeetCode Rating](https://img.shields.io/badge/LeetCode-1600%2B-orange?style=for-the-badge&logo=leetcode)
 
 ---
 
@@ -74,26 +72,6 @@ I build systems that combine intelligent automation, clean architecture, and pro
 ![API Design](https://img.shields.io/badge/API_Design-1E90FF?style=for-the-badge)
 ![Performance Optimization](https://img.shields.io/badge/Performance_Optimization-8A2BE2?style=for-the-badge)
 ![Debugging](https://img.shields.io/badge/Debugging-FF4500?style=for-the-badge)
-
----
-
-## Experience Highlights
-
-**Extralit – Open Source Contributor (Backend & AI Systems)**  
-Built scalable document processing pipelines using FastAPI, Celery, and distributed workers for OCR workloads.
-
-**Techvisio Design – Software Developer Intern**  
-Developed analytics platform using React, Django REST, PostgreSQL, and AWS S3 handling 10K+ daily events.
-
----
-
-## Projects
-
-**Agentic PR Copilot**  
-AI driven pull request analysis system with async task orchestration and LLM routing.
-
-**Titan Guidance (Intelligent Document Processing Platform)**  
-8 stage distributed pipeline using FastAPI, Celery, Redis, Qdrant, and Docker with 4× throughput improvement.
 
 ---
 
