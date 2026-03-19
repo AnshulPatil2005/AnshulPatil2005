@@ -77,6 +77,5 @@ I build systems that combine intelligent automation, clean architecture, and pro
 
 ## Connect
 
-- Portfolio: https://anshulportfolio2011.netlify.app/
 - LinkedIn: https://www.linkedin.com/in/anshulpatil2011
 - GitHub: https://github.com/AnshulPatil2005
