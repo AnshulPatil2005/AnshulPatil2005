@@ -1,9 +1,3 @@
-# Anshul Patil
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AnshulPatil2005)](https://git.io/streak-stats)
-
----
-
 ## About Me
 
 B.Tech undergraduate at **Indian Institute of Information Technology, Surat**  
