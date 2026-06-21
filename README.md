@@ -6,5 +6,3 @@ I build systems Focused on backend engineering, AI systems, distributed architec
 **Visit my website for more info** : https://anshulportfolio2011.netlify.app/
 
 **LinkedIn**: https://www.linkedin.com/in/anshulpatil2011
-
-**GitHub**: https://github.com/AnshulPatil2005
