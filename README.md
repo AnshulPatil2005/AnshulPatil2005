@@ -5,4 +5,6 @@ I build systems Focused on backend engineering, AI systems, distributed architec
 
 **Visit my website for more info** : https://anshulpatil.is-a.dev/
 
-**LinkedIn**: https://www.linkedin.com/in/anshulpatil2011
+**LinkedIn** : https://www.linkedin.com/in/anshulpatil2011
+
+**CheckOut Stratum, A Code review that remembers.** : https://stratum-sepia.vercel.app/
